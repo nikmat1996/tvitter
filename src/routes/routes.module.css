@@ -1,0 +1,8 @@
+.center {
+    position: relative;
+    left: 25%;
+    width: 50%;
+    box-sizing: border-box;
+    border-right: 1px solid #e6ecf0;
+
+}
