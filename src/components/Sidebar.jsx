@@ -63,8 +63,8 @@ const Sidebar = () => {
             <FaMehBlank className={styles.icons} /> More
           </Link>
         </li>
-        <div className="sidebar__Btn">
-          <Link to="">Profile</Link>
+        <div className={styles.sidebar__Btn}>
+          <Link to="">Tweet</Link>
         </div>
       </ul>
     </div>

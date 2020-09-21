@@ -1,10 +1,12 @@
 import React from 'react'
 import NewTweet from './NewTweet'
+import Tweets from './Tweets'
 
 const Home = () => {
     return (
         <div>
-            <NewTweet />   
+            <NewTweet />  
+            <Tweets />
         </div>
     )
 }
